@@ -13,7 +13,7 @@ const searchSuggestions = [
   "Villa at Palm Jumeirah",
   "Apartment at Marina",
   "DIFC Executive Suite",
-  "Emirates Hills Mansion",
+  "Emirates Hills Mansion", 
   "JBR Beachfront Penthouse",
 ]
 
