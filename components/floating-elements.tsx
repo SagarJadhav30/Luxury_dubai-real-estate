@@ -5,7 +5,7 @@ import { motion } from "framer-motion"
 export default function FloatingElements() {
   return (
     <div className="fixed inset-0 pointer-events-none z-0">
-      {/* Large Floating Orbs */}
+      {/* Large Floating Orbs */} 
       <motion.div
         animate={{
           y: [0, -20, 0],
