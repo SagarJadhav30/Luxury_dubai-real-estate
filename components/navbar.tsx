@@ -4,7 +4,7 @@ import { useState, useEffect } from "react"
 import { motion, AnimatePresence } from "framer-motion"
 import { Button } from "@/components/ui/button"
 import { Menu, X, Phone, Mail, ChevronDown } from "lucide-react"
-
+ 
 const navItems = [
   { name: "Home", href: "#hero-section" },
   {
