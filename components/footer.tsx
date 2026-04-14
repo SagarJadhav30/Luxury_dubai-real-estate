@@ -9,7 +9,7 @@ import {
   Mail,
   Facebook,
   Twitter,
-  Instagram,
+  Instagram, 
   Linkedin,
   Youtube,
   ArrowRight,
