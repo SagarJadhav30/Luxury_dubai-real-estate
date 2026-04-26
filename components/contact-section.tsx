@@ -365,7 +365,7 @@ export default function ContactSection() {
 
                   <motion.div whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.98 }} className="mt-auto">
                     <Button className="w-full bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-700 hover:to-orange-700 text-black font-semibold py-3 text-lg transition-all duration-300">
-                      {activeForm === "quick" && "Send Inquiry"}
+                      {activeForm === "quick" && "Send Inquiry"} 
                       {activeForm === "detailed" && "Schedule Consultation"}
                       {activeForm === "vip" && "Request VIP Service"}
                     </Button>
