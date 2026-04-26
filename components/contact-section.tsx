@@ -360,7 +360,7 @@ export default function ContactSection() {
                         onChange={(e) => handleInputChange("message", e.target.value)}
                         className="bg-white/10 border-amber-400/30 text-white placeholder:text-gray-400 min-h-[120px] flex-grow"
                       />
-                    </>
+                    </> 
                   )}
 
                   <motion.div whileHover={{ scale: 1.02 }} whileTap={{ scale: 0.98 }} className="mt-auto">
