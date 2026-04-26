@@ -370,7 +370,7 @@ export default function ContactSection() {
                       {activeForm === "vip" && "Request VIP Service"}
                     </Button>
                   </motion.div>
-                </motion.div>
+                </motion.div> 
               </div>
 
               {/* Animated Calendar Icon */}
